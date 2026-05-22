@@ -1,0 +1,6 @@
+{
+    "name": "kali",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
